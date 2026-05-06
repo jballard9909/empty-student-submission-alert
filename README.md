@@ -116,4 +116,4 @@ This project was built as part of a personal automation portfolio during a trans
 
 ---
 
-*Built by Jacob | [LinkedIn](#www.linkedin.com/in/jacob-ballard-) | Part of an AI Automation Portfolio*
+*Built by Jacob | [LinkedIn](www.linkedin.com/in/jacob-ballard-) | Part of an AI Automation Portfolio*
